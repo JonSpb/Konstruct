@@ -1,0 +1,68 @@
+.capab {
+  display: flex;
+  width: 941px;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.capab__title {
+  font-size: 18px;
+  width: 198px;
+}
+
+.capab__button {
+  width: 50px;
+  height: 4px;
+  background: #00a4e5;
+  border: 0;
+}
+
+.capab__lorem {
+  vertical-align: text-bottom; 
+  font-size: 11px;
+  margin-left: 185px;
+  margin-right: 80px;
+  width: 405px;
+}
+
+.capab__services {
+  width: 150px;
+  height: 40px;
+  background: #00a4e5;
+  outline: 2px solid #00a4e5;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+.services__icon {
+  display: flex;
+  width: 941px;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 11px;
+  margin-top: 80px;
+  margin-bottom: 115px;
+}
+
+.services__icon-project, .services__icon-structure,
+.services__icon-factory{
+    border: 1px solid grey;
+    padding: 22px;
+    width: 295px;
+    height:330px;
+}
+
+.services__icon-project>p, .services__icon-structure>p,
+.services__icon-factory>p{
+  font-size: 13px;
+  line-height:2em;
+}
+
+.services__icon-structure{
+    margin-left: 28px;
+    margin-right: 28px;
+
+}

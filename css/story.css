@@ -1,0 +1,80 @@
+.story {
+  background-position: center bottom;
+  padding-top: 57px;
+  width: 941px;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+.story__title {
+  text-align: center;
+}
+
+.story__button {
+  width: 50px;
+  height: 4px;
+  background: #00a4e5;
+  border: 0;
+  margin-left: 445px;
+}
+
+.story__text {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 30px;
+  height: auto;
+}
+
+.story__text-John {
+  font-size: 20px;
+  width: 450px;
+  line-height: 1.5em;
+}
+
+.story__text-John>span{
+  color:#00a4e5;
+}
+
+.story__text-Lorem {
+  width: 450px;
+  line-height: 2em;
+}
+
+.story__image {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 100px;
+}
+
+.image__wp {
+  background-image: url(../img/wp.svg);
+  width: 140px;
+  height: 244px;
+  padding-top: 23px;
+  padding-left: 10px;
+  color: white;
+  text-align: start;
+  font-size: 24px;
+}
+.image__wm {
+  background-image: url(../img/wm.svg);
+  width: 140px;
+  height: 244px;
+  margin-left: 30px;
+  margin-right: 30px;
+  padding-top: 23px;
+  padding-left: 10px;
+  color: white;
+  text-align: start;
+  font-size: 24px;
+}
+.image__wb {
+  background-image: url(../img/wb.svg);
+  width: 140px;
+  height: 244px;
+  padding-top: 23px;
+  padding-left: 10px;
+  color: white;
+  text-align: start;
+  font-size: 24px;
+}

@@ -1,0 +1,56 @@
+.konstruct {
+  display: block;
+  flex-direction: row;
+  background-image: url(../img/top.svg);
+  background-color: #3A4F63;
+  height: 769px;
+  background-size: cover;
+  background-position: center bottom;
+  color: white;
+}
+
+.konstruct__title {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  list-style-type: none;
+  padding: 0;
+  padding-top: 41px;
+  padding-bottom: 275px;
+}
+
+.konstruct__title-link {
+  text-decoration: none;
+  color: white;
+  width: 9px;
+  height:20px;
+}
+
+.konstruct__title-partner {
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-size: 60px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.title__management {
+  margin-top: 0px;
+  letter-spacing: 0em;
+  text-transform: none;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 700;
+  font-size: 16px;
+}
+
+.title__scroll {
+  margin-top: 170px;
+  text-decoration: none;
+  color: white;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 700;
+  font-size: 11px;
+}
